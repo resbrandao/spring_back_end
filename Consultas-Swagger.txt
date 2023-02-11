@@ -1,0 +1,8 @@
+
+VERIFICAR SEMPRE A "PORTA" QUE A API ESTA RODANDO
+
+http://localhost:8080//swagger-ui/index.html#/unidade-controller
+
+http://localhost:8080//swagger-ui/index.html#/profissional-controller
+
+http://localhost:8080//swagger-ui/index.html#/especialidade-controller
